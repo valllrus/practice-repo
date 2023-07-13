@@ -38,6 +38,10 @@ Git add
 ### Работа со списками
 
 ### Картинки в тексте
+Формат записи изображения: `![описание](ссылка на изображение)`
+
+![alt text](https://upload.wikimedia.org/wikipedia/ru/thumb/2/29/Death_Stranding_2_cover.jpeg/450px-Death_Stranding_2_cover.jpeg "none")
+
 
 ### Ссылки в тексте
 
