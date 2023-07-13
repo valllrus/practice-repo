@@ -40,7 +40,13 @@ Git add
 ### Картинки в тексте
 
 ### Ссылки в тексте
+Формат записи ссылки: `[Описание](ссылка)`
 
+[homepage] (https://coder-notes.github.io/)
+
+Cсылка с атрибутом `homepage`
+
+[homepage] (https://coder-notes.github.io/ "Это ссылка")
 ### Заголовки
 
 ### Заключение
